@@ -1,0 +1,913 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"req",
+				"reqPath"
+			],
+			[
+				"goo",
+				"goodbyPagePath"
+			],
+			[
+				"hel",
+				"helloPagePath"
+			],
+			[
+				"add",
+				"addClass\t.addClass()"
+			],
+			[
+				"main",
+				"main-es6.js"
+			],
+			[
+				"rotation",
+				"rotationY"
+			],
+			[
+				"inn",
+				"innerHeight\t.innerHeight()"
+			],
+			[
+				"left",
+				"left-side-bar"
+			],
+			[
+				"f",
+				"f7f7f7"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"container",
+				"container-fluid"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"foo",
+				"footerLeftContent"
+			],
+			[
+				"changeSt",
+				"changeStateIcon"
+			],
+			[
+				"mouse",
+				"mouseenter\t.mouseenter()"
+			],
+			[
+				"append",
+				"append\t.append()"
+			],
+			[
+				"each",
+				"each\t$.each()"
+			],
+			[
+				"all",
+				"allCircle"
+			],
+			[
+				"page",
+				"pageElements"
+			],
+			[
+				"has",
+				"hasClass\t.hasClass()"
+			],
+			[
+				"opened",
+				"openedBtn"
+			],
+			[
+				"stat",
+				"stateClases"
+			],
+			[
+				"window",
+				"window.innerHeight\t(main.js)"
+			],
+			[
+				"del",
+				"delegate\t.delegate()"
+			],
+			[
+				"event",
+				"event.currentTarget"
+			],
+			[
+				"Node",
+				"nodeName\t: DOMString Node"
+			],
+			[
+				"text",
+				"text-image\t(main.css)"
+			],
+			[
+				"hide",
+				"hidden-xs"
+			],
+			[
+				"table",
+				"tableButtons"
+			],
+			[
+				"setTime",
+				"setTimeout\t( handler: any, timeout?: long, arguments_..: any ): long Window"
+			],
+			[
+				"slide",
+				"slideToggle\t.slideToggle()"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"P",
+				"PTSansBold"
+			],
+			[
+				"menu",
+				"menuButton"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"togg",
+				"toggleClass\t.toggleClass()"
+			],
+			[
+				"curre",
+				"currentTarget\t: EventTarget Event"
+			],
+			[
+				"conte",
+				"contentArea"
+			],
+			[
+				"dis",
+				"display\t(fin-slider-menu.css)"
+			],
+			[
+				"con",
+				"contentElement"
+			],
+			[
+				"ope",
+				"openButtonElem"
+			],
+			[
+				"open",
+				"openButtonId"
+			],
+			[
+				"clie",
+				"clientWidth"
+			],
+			[
+				"optio",
+				"options"
+			],
+			[
+				"prop",
+				"propObjName"
+			],
+			[
+				"finMenu",
+				"finSliderMenu-menuBlock\t(index.html)"
+			],
+			[
+				"conso",
+				"console.log"
+			],
+			[
+				"set",
+				"setSize"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"getEle",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"ran",
+				"randomize"
+			],
+			[
+				"number",
+				"number"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"getE",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"cen",
+				"center-block"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"end",
+				"endHeight"
+			],
+			[
+				"wh",
+				"while()"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"sl",
+				"slides"
+			],
+			[
+				"console",
+				"console.log()"
+			],
+			[
+				"next",
+				"nextSlide"
+			],
+			[
+				"pre",
+				"preSlide"
+			],
+			[
+				"active",
+				"activeSlide"
+			],
+			[
+				"fade",
+				"fadeOut\t.fadeOut()"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"switch",
+				"switch()"
+			],
+			[
+				"searc",
+				"searchElem"
+			],
+			[
+				"op",
+				"opacity\t(sliderMenu.js)"
+			],
+			[
+				"font",
+				"font-size\t(main.css)"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"fig",
+				"figcaption\t(article.html)"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"arti",
+				"article-hr\t(main.html)"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"li",
+				"line"
+			],
+			[
+				"white",
+				"white"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"col",
+				"co-lg-4"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"getEl",
+				"getElementById( elementId: DOMString ): Element\tDocument"
+			],
+			[
+				"un",
+				"undefined"
+			],
+			[
+				"cas",
+				"cashRegisters.display"
+			],
+			[
+				"first",
+				"firstStep"
+			],
+			[
+				"cu",
+				"currentForm"
+			],
+			[
+				"do",
+				"doBeautiful"
+			],
+			[
+				"formC",
+				"formsConteiner"
+			],
+			[
+				"firs",
+				"firstResult"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"che",
+				"checkbox\t(index.html)"
+			],
+			[
+				"getid",
+				"getElementById"
+			],
+			[
+				"getElemen",
+				"getElementById( elementId: DOMString ): Element\tDocument"
+			],
+			[
+				"elem",
+				"elemName"
+			],
+			[
+				"consol",
+				"console.log('количество"
+			],
+			[
+				"eventTy",
+				"eventType"
+			],
+			[
+				"eve",
+				"eventParametr"
+			],
+			[
+				"ev",
+				"eventType"
+			],
+			[
+				"cnsol",
+				"console.log()"
+			],
+			[
+				"lea",
+				"leatherette"
+			],
+			[
+				"pri",
+				"print"
+			],
+			[
+				"cus",
+				"customer.choiceCoverType"
+			],
+			[
+				"swi",
+				"switch()"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"widt",
+				"width"
+			],
+			[
+				"fir",
+				"firstResult"
+			],
+			[
+				"nu",
+				"numberOfTurns"
+			],
+			[
+				"customer",
+				"customer.choiceBookSize"
+			],
+			[
+				"va",
+				"var"
+			],
+			[
+				"w",
+				"write\t(index.html)"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"fu",
+				"fullscreenEnabled: boolean\tDocument"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"sp",
+				"space-between"
+			],
+			[
+				"wi",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "live",
+		"selected_items":
+		[
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"scri",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"scrip",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"html m",
+				"HTML Minfier: Minify File (modify existing)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"line",
+				"Line Endings Unify"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"emmet",
+				"Set Syntax: Emmet"
+			],
+			[
+				"emm",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"livereload",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package C",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 292.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/H/github/vue book IB/livesupport"
+	],
+	"file_history":
+	[
+		"/H/wdbvue/live-support",
+		"/C/Users/FinGanapre/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"/C/Users/FinGanapre/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/mariaNazarova",
+		"/C/users/fingan~1/appdata/local/temp/sublime-sftp-browse-1527367869/mariaNazarova/sites/all/themes/maritheme/js/custom.js",
+		"/H/github/vue DL/.gitignore",
+		"/D/learnNode/client/index.html",
+		"/D/learnNode/server/server.js",
+		"/D/learnNode/client/js/main.js",
+		"/C/Users/FinGanapre/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/FinGanapre/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/S/projects/live-support/app/es6js/main-es6.js",
+		"/S/projects/live-support/gulpFile.js",
+		"/S/projects/live-support/app/user-props.html",
+		"/S/projects/live-support/app/reg.html",
+		"/S/projects/live-support/app/sass/main.sass",
+		"/S/projects/live-support/app/js/main-es6.js",
+		"/S/projects/live-support/app/js/es6js",
+		"/S/projects/live-support/app/index.html",
+		"/home/finganapre/MEGA/Programming/START/app/sass/_fonts.sass",
+		"/home/finganapre/MEGA/Programming/START/app/sass/main.sass",
+		"/home/finganapre/MEGA/Programming/START/gulpFile.js",
+		"/home/finganapre/MEGA/Programming/LIBRARY SITE/app/sass/main.sass",
+		"/home/finganapre/MEGA/Programming/LIBRARY SITE/app/index.html",
+		"/home/sergey_a/Рабочий стол/dist/index.html",
+		"/home/sergey_a/Рабочий стол/dist/js/libs.min.js",
+		"/home/sergey_a/Рабочий стол/dist/js/main.js",
+		"/home/finganapre/MEGA/Programming/gulpTest/package.json",
+		"/home/finganapre/MEGA/Programming/gulpTest/app/index.html",
+		"/home/finganapre/MEGA/Programming/gulpTest/gulpFile.js",
+		"/home/finganapre/MEGA/Programming/gulpTest/package-lock.json",
+		"/C/Users/FinGanapre/Documents/MEGA/Programming/gulpTest/app/sass/_part.sass",
+		"/C/Users/FinGanapre/Documents/MEGA/Programming/gulpTest/app/css/main.css",
+		"/C/Users/FinGanapre/Documents/MEGA/Programming/gulpTest/app/sass/main.sass",
+		"/C/Users/FinGanapre/Documents/MEGA/Programming/3d/js/main.js",
+		"/C/Users/FinGanapre/Documents/MEGA/Programming/3d/css/main.css",
+		"/C/Users/FinGanapre/Documents/MEGA/Programming/3d/index.html",
+		"/C/Users/FinGanapre/Documents/MEGA/Programming/eaton 18.01.2018/js/main.js",
+		"/C/Users/FinGanapre/Documents/MEGA/1.1.html",
+		"/C/Users/FinGanapre/Documents/MEGA/Programming/oneVision/img/Budget icons/Top panel/3.svg",
+		"/C/Users/FinGanapre/Documents/MEGA/Programming/oneVision/css/style.min.css",
+		"/C/Users/FinGanapre/Documents/MEGA/Programming/сша last/js/main.js",
+		"/C/Users/FinGanapre/Documents/MEGA/Programming/сша last/css/main.css",
+		"/C/Users/FinGanapre/Documents/MEGA/Programming/сша last/index.html",
+		"/C/Users/FinGanapre/Documents/MEGA/Programming/сша last/img/changeStateIcon/closed-hover.svg",
+		"/C/Users/FinGanapre/Documents/MEGA/prg/сша/index.html",
+		"/C/Users/FinGanapre/Documents/MEGA/prg/сша/css/main.css",
+		"/home/finganapre/MEGA/Programming/Projects/test vue.js/index.html",
+		"/home/finganapre/MEGA/Programming/library/jQuery.BlackAndWhite-master/test.html",
+		"/home/finganapre/MEGA/prg/сша/index.html",
+		"/home/finganapre/MEGA/prg/сша/js/main.js",
+		"/home/finganapre/Документы/prg/сша/index.html",
+		"/home/finganapre/MEGA/Programming/eaton 2.0/js/main.js",
+		"/home/finganapre/MEGA/Programming/eaton 2.0/index.html",
+		"/home/finganapre/MEGA/Programming/eaton 2.0/css/custom.css",
+		"/home/finganapre/MEGA/Programming/eaton 2.0/js/custom.js",
+		"/home/finganapre/MEGA/Programming/сша/copy.html",
+		"/home/finganapre/MEGA/Programming/eaton 2.0/eaton 2",
+		"/home/finganapre/MEGA/Programming/сша/css/main.css",
+		"/home/finganapre/MEGA/Programming/сша/index.html",
+		"/C/Users/FinGanapre/Documents/MEGA/Programming/Projects/samples/alert/js/alert-block-info.js",
+		"/C/Users/FinGanapre/Documents/MEGA/Programming/Projects/samples/alert/css/style.css",
+		"/C/Users/FinGanapre/Documents/MEGA/Programming/Projects/samples/alert/index.html",
+		"/C/Users/FinGanapre/Documents/MEGA/Programming/Projects/samples/alert/js/help.js",
+		"/home/finganapre/MEGA/Programming/Projects/sodrujestvo74.ru/css/main.css",
+		"/home/finganapre/MEGA/index.html",
+		"/home/finganapre/MEGA/Programming/Projects/sodrujestvo74.ru/index.html",
+		"/home/finganapre/MEGA/Programming/sodrujestvo74.ru/js/main.js",
+		"/home/finganapre/MEGA/Programming/learning/backbone-tutorial/server.js",
+		"/home/finganapre/MEGA/Programming/learning/backbone-tutorial/app/index.html",
+		"/home/finganapre/MEGA/Programming/learning/backbone-tutorial/package.json",
+		"/home/finganapre/virus/readMy (UTF-8).txt",
+		"/home/finganapre/virus/cripter/config.cfg",
+		"/home/finganapre/virus/readMy.txt",
+		"/home/finganapre/MEGA/Programming/learning/backbone-tutorial/app/c.js",
+		"/home/finganapre/virus/cripter/start_notepad.bat",
+		"/home/finganapre/virus/cripter/How_return_files.txt",
+		"/home/finganapre/virus/cripter/INFOFILE",
+		"/etc/phpmyadmin/config.inc.php",
+		"/var/www/shopscripts/примеры плагинов/webasyst-framework-master/README",
+		"/var/www/shopscripts/wa-apps/dummy/templates/actions/frontend/Frontend.html",
+		"/home/finganapre/MEGA/Programming/Projects/sodrujestvo74/index.html",
+		"/home/finganapre/MEGA/Programming/Projects/sodrujestvo74/js/main.js",
+		"/home/finganapre/MEGA/Programming/Projects/sodrujestvo74/css/media.css",
+		"/home/finganapre/MEGA/Programming/Projects/sodrujestvo74/js/calc.js",
+		"/home/finganapre/MEGA/Programming/Projects/sodrujestvo74/css/main.css",
+		"/home/finganapre/MEGA/Programming/Projects/sodrujestvo74/librarys/новый файл",
+		"/home/finganapre/Загрузки/node-v6.11.3/npm-debug.log",
+		"/home/finganapre/MEGA/Programming/Projects/sodrujestvo74/js.js",
+		"/home/finganapre/.cache/.fr-9yO2Ty/node-v6.11.3-linux-x64/README.md",
+		"/home/finganapre/.WebStorm2017.1/system/log/idea.log",
+		"/home/finganapre/MEGA/Programming/Projects/УралГуфк сайт/index.html",
+		"/home/finganapre/MEGA/Programming/Projects/УралГуфк сайт/js/fin-slider-menu.js",
+		"/home/finganapre/MEGA/Programming/Projects/видео на гуфке/backup",
+		"/var/www/testphp/index.php",
+		"/var/www/parsers/index.php",
+		"/etc/apache2/apache2.conf",
+		"/home/finganapre/Рабочий стол/новый файл (3-я копия)",
+		"/etc/apache2/sites-available/000-default.conf",
+		"/home/finganapre/MEGA/Programming/Projects/видео на гуфке/insert-content.js",
+		"/home/finganapre/Рабочий стол/новый файл (4-я копия)",
+		"/home/finganapre/MEGA/Programming/Projects/видео на гуфке/Абитуриенту » Официальный сайт Уральского гос. университета физической культуры.html",
+		"/home/finganapre/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/home/finganapre/MEGA/Programming/Projects/видео на гуфке/file.html",
+		"/home/finganapre/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/home/finganapre/Рабочий стол/новый файл (другая копия)",
+		"/home/finganapre/Рабочий стол/новый файл",
+		"/home/finganapre/Рабочий стол/новый файл (копия)",
+		"/home/finganapre/MEGA/Programming/Projects/cat/css/fin-menu.css",
+		"/home/finganapre/MEGA/Programming/Projects/cat/js/fin-menu.js",
+		"/home/finganapre/Рабочий стол/finSliderMenu/css/fin-slider-menu.css",
+		"/home/finganapre/MEGA/Programming/Projects/cat/css/fin-slider-menu.css",
+		"/etc/apache2/sites-enabled/example.conf",
+		"/home/finganapre/MEGA/䏂ҙʠąΘ!",
+		"/home/finganapre/Рабочий стол/finSliderMenu/js/fin-slider-menu.js",
+		"/home/finganapre/Рабочий стол/finSliderMenu/index.html",
+		"/home/finganapre/MEGA/Programming/Projects/cat/js/fin-slider-menu.js",
+		"/home/finganapre/MEGA/Programming/Projects/sodrujestvo74/html.html",
+		"/home/finganapre/MEGA/Programming/Projects/cat/index.html",
+		"/home/finganapre/MEGA/index.php",
+		"/home/finganapre/MEGA/Programming/test/table.html",
+		"/home/finganapre/MEGA/Programming/Projects/imbirFire/css/circle-buttons.css",
+		"/home/finganapre/MEGA/Programming/Projects/cat/js/cat.js",
+		"/home/finganapre/MEGA/Programming/Projects/imbirFire/css/main.css",
+		"/home/finganapre/MEGA/Programming/Projects/imbirFire/index.html",
+		"/home/finganapre/Рабочий стол/usb140201/readme.txt",
+		"/home/finganapre/MEGA/Programming/learning/php/index.php",
+		"/home/finganapre/MEGA/Programming/Projects/СТАРТ/index.html",
+		"/home/finganapre/MEGA/Programming/Базовый набор для сайта/index.html"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 66.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 150.0
+	},
+	"pinned_build_system": "",
+	"project": "live-support.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control Messages"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 138.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

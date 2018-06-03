@@ -1,0 +1,21 @@
+{
+  "name": "livesupport",
+  "version": "1.0.0",
+  "description": "this software make you  work pleasure",
+  "main": "live-support.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "livesupporet",
+    "live-support",
+    "live",
+    "support\u001b[D\u001b[C"
+  ],
+  "author": "enegin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0"
+  }
+}
